@@ -1,0 +1,685 @@
+[16:14:02] [main/INFO]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 39.0.59, --fml.mcVersion, 1.18.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20211210.034407, nogui]
+[16:14:02] [main/INFO]: ModLauncher 9.1.0+9.1.0+main.6690ee51 starting: java version 17.0.1 by Eclipse Adoptium
+[16:14:02] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/home/sid_3715153/minecraft_forge_118/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2319!/ Service=ModLauncher Env=SERVER
+[16:14:03] [main/INFO]: Found mod file advancednetherite-1.10.0-1.18.1.jar of type MOD with locator {mods folder locator at /home/sid_3715153/minecraft_forge_118/mods}
+[16:14:03] [main/INFO]: Found mod file awesomedungeon-1.1.4.jar of type MOD with locator {mods folder locator at /home/sid_3715153/minecraft_forge_118/mods}
+[16:14:03] [main/INFO]: Found mod file AwesomeDungeonOcean-Forge-1.18-1.0.3.jar of type MOD with locator {mods folder locator at /home/sid_3715153/minecraft_forge_118/mods}
+[16:14:03] [main/INFO]: Found mod file balm-2.4.1+0.jar of type MOD with locator {mods folder locator at /home/sid_3715153/minecraft_forge_118/mods}
+[16:14:03] [main/INFO]: Found mod file betterfpsdist-1.18.1-1.4.jar of type MOD with locator {mods folder locator at /home/sid_3715153/minecraft_forge_118/mods}
+[16:14:03] [main/INFO]: Found mod file blockui-1.18.2-0.0.47-ALPHA.jar of type MOD with locator {mods folder locator at /home/sid_3715153/minecraft_forge_118/mods}
+[16:14:03] [main/INFO]: Found mod file cleancut-mc1.18-3.0-forge.jar of type MOD with locator {mods folder locator at /home/sid_3715153/minecraft_forge_118/mods}
+[16:14:03] [main/INFO]: Found mod file collective-1.18.1-3.8.jar of type MOD with locator {mods folder locator at /home/sid_3715153/minecraft_forge_118/mods}
+[16:14:03] [main/INFO]: Found mod file comforts-forge-1.18-5.0.0.1.jar of type MOD with locator {mods folder locator at /home/sid_3715153/minecraft_forge_118/mods}
+[16:14:03] [main/INFO]: Found mod file configured-1.5.1-1.18.1.jar of type MOD with locator {mods folder locator at /home/sid_3715153/minecraft_forge_118/mods}
+[16:14:03] [main/INFO]: Found mod file connectivity-1.18-2.6.jar of type MOD with locator {mods folder locator at /home/sid_3715153/minecraft_forge_118/mods}
+[16:14:03] [main/INFO]: Found mod file cookingforblockheads-forge-1.18.1-11.1.0.jar of type MOD with locator {mods folder locator at /home/sid_3715153/minecraft_forge_118/mods}
+[16:14:03] [main/INFO]: Found mod file CopperEquipment-Forge1.18.1-1.2.jar of type MOD with locator {mods folder locator at /home/sid_3715153/minecraft_forge_118/mods}
+[16:14:03] [main/INFO]: Found mod file corail_woodcutter-1.18-2.2.1.jar of type MOD with locator {mods folder locator at /home/sid_3715153/minecraft_forge_118/mods}
+[16:14:03] [main/INFO]: Found mod file craftingtweaks-forge-1.18.1-14.0.2.jar of type MOD with locator {mods folder locator at /home/sid_3715153/minecraft_forge_118/mods}
+[16:14:03] [main/INFO]: Found mod file CreativeCore_v2.4.1_mc1.18.1.jar of type MOD with locator {mods folder locator at /home/sid_3715153/minecraft_forge_118/mods}
+[16:14:03] [main/INFO]: Found mod file Croptopia-1.18-FORGE-1.8.0.jar of type MOD with locator {mods folder locator at /home/sid_3715153/minecraft_forge_118/mods}
+[16:14:03] [main/INFO]: Found mod file curios-forge-1.18.1-5.0.6.0.jar of type MOD with locator {mods folder locator at /home/sid_3715153/minecraft_forge_118/mods}
+[16:14:03] [main/INFO]: Found mod file domum_ornamentum-1.18.1-1.0.39-ALPHA-universal.jar of type MOD with locator {mods folder locator at /home/sid_3715153/minecraft_forge_118/mods}
+[16:14:03] [main/INFO]: Found mod file dynview-1.18.1-2.4.jar of type MOD with locator {mods folder locator at /home/sid_3715153/minecraft_forge_118/mods}
+[16:14:03] [main/INFO]: Found mod file elevatorid-1.18-1.8.3.jar of type MOD with locator {mods folder locator at /home/sid_3715153/minecraft_forge_118/mods}
+[16:14:03] [main/INFO]: Found mod file emojiful-1.18-3.0.0.jar of type MOD with locator {mods folder locator at /home/sid_3715153/minecraft_forge_118/mods}
+[16:14:03] [main/INFO]: Found mod file EnchantmentDescriptions-Forge-1.18.1-9.0.13.jar of type MOD with locator {mods folder locator at /home/sid_3715153/minecraft_forge_118/mods}
+[16:14:03] [main/INFO]: Found mod file fallingthrough-1.18.1-2.1.jar of type MOD with locator {mods folder locator at /home/sid_3715153/minecraft_forge_118/mods}
+[16:14:03] [main/INFO]: Found mod file farsight-1.18-1.6.jar of type MOD with locator {mods folder locator at /home/sid_3715153/minecraft_forge_118/mods}
+[16:14:03] [main/INFO]: Found mod file FastLeafDecay-27.2.jar of type MOD with locator {mods folder locator at /home/sid_3715153/minecraft_forge_118/mods}
+[16:14:03] [main/INFO]: Found mod file Global Data-  Resourcepacks-forge-1.18.1-1.11.3.jar of type MOD with locator {mods folder locator at /home/sid_3715153/minecraft_forge_118/mods}
+[16:14:03] [main/INFO]: Found mod file goblintraders-1.7.0-1.18.1.jar of type MOD with locator {mods folder locator at /home/sid_3715153/minecraft_forge_118/mods}
+[16:14:03] [main/INFO]: Found mod file hostilevillages-1.18.1-3.8.jar of type MOD with locator {mods folder locator at /home/sid_3715153/minecraft_forge_118/mods}
+[16:14:03] [main/INFO]: Found mod file jei-1.18.1-9.2.3.82.jar of type MOD with locator {mods folder locator at /home/sid_3715153/minecraft_forge_118/mods}
+[16:14:03] [main/INFO]: Found mod file medievalmusic-1.18-1.2.jar of type MOD with locator {mods folder locator at /home/sid_3715153/minecraft_forge_118/mods}
+[16:14:03] [main/INFO]: Found mod file minecolonies-1.18.1-1.0.502-BETA.jar of type MOD with locator {mods folder locator at /home/sid_3715153/minecraft_forge_118/mods}
+[16:14:03] [main/INFO]: Found mod file multi-piston-1.18-1.2.2-ALPHA.jar of type MOD with locator {mods folder locator at /home/sid_3715153/minecraft_forge_118/mods}
+[16:14:03] [main/INFO]: Found mod file mutil-1.18.1-4.2.0.jar of type MOD with locator {mods folder locator at /home/sid_3715153/minecraft_forge_118/mods}
+[16:14:03] [main/INFO]: Found mod file NaturesCompass-1.18.1-1.9.4-forge.jar of type MOD with locator {mods folder locator at /home/sid_3715153/minecraft_forge_118/mods}
+[16:14:03] [main/INFO]: Found mod file netherportalfix-forge-1.18-9.0.0.jar of type MOD with locator {mods folder locator at /home/sid_3715153/minecraft_forge_118/mods}
+[16:14:03] [main/INFO]: Found mod file PackingTape-1.18-0.12.2.jar of type MOD with locator {mods folder locator at /home/sid_3715153/minecraft_forge_118/mods}
+[16:14:03] [main/INFO]: Found mod file PlayerRevive_v2.0.0-pre06_mc1.18.1.jar of type MOD with locator {mods folder locator at /home/sid_3715153/minecraft_forge_118/mods}
+[16:14:03] [main/INFO]: Found mod file potionsmaster-0.5.2-1.18.1-39.0.19.jar of type MOD with locator {mods folder locator at /home/sid_3715153/minecraft_forge_118/mods}
+[16:14:03] [main/INFO]: Found mod file repurposed_structures_forge-4.0.9+1.18.1.jar of type MOD with locator {mods folder locator at /home/sid_3715153/minecraft_forge_118/mods}
+[16:14:03] [main/INFO]: Found mod file sophisticatedbackpacks-1.18.1-3.15.9.533.jar of type MOD with locator {mods folder locator at /home/sid_3715153/minecraft_forge_118/mods}
+[16:14:03] [main/INFO]: Found mod file storageracks-1.18-1.0.2.jar of type MOD with locator {mods folder locator at /home/sid_3715153/minecraft_forge_118/mods}
+[16:14:03] [main/INFO]: Found mod file structurize-1.18.1-1.0.352-ALPHA.jar of type MOD with locator {mods folder locator at /home/sid_3715153/minecraft_forge_118/mods}
+[16:14:03] [main/INFO]: Found mod file tetra-1.18.1-4.8.0.jar of type MOD with locator {mods folder locator at /home/sid_3715153/minecraft_forge_118/mods}
+[16:14:03] [main/INFO]: Found mod file theoneprobe-1.18-5.0.3.jar of type MOD with locator {mods folder locator at /home/sid_3715153/minecraft_forge_118/mods}
+[16:14:03] [main/INFO]: Found mod file tombstone-7.4.1-1.18.jar of type MOD with locator {mods folder locator at /home/sid_3715153/minecraft_forge_118/mods}
+[16:14:03] [main/INFO]: Found mod file trashslot-forge-1.18-11.0.0.jar of type MOD with locator {mods folder locator at /home/sid_3715153/minecraft_forge_118/mods}
+[16:14:03] [main/INFO]: Found mod file vanillaplustools-1.18-1.0.jar of type MOD with locator {mods folder locator at /home/sid_3715153/minecraft_forge_118/mods}
+[16:14:03] [main/INFO]: Found mod file waystones-forge-1.18.1-9.0.3.jar of type MOD with locator {mods folder locator at /home/sid_3715153/minecraft_forge_118/mods}
+[16:14:03] [main/INFO]: Found mod file Xaeros_Minimap_22.1.0_Forge_1.18.jar of type MOD with locator {mods folder locator at /home/sid_3715153/minecraft_forge_118/mods}
+[16:14:03] [main/INFO]: Found mod file XaerosWorldMap_1.20.0_Forge_1.18.jar of type MOD with locator {mods folder locator at /home/sid_3715153/minecraft_forge_118/mods}
+[16:14:03] [main/INFO]: Found mod file fmlcore-1.18.1-39.0.59.jar of type LIBRARY with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@4d18aa28
+[16:14:03] [main/INFO]: Found mod file javafmllanguage-1.18.1-39.0.59.jar of type LANGPROVIDER with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@4d18aa28
+[16:14:03] [main/INFO]: Found mod file mclanguage-1.18.1-39.0.59.jar of type LANGPROVIDER with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@4d18aa28
+[16:14:03] [main/INFO]: Found mod file server-1.18.1-20211210.034407-srg.jar of type MOD with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@4d18aa28
+[16:14:03] [main/INFO]: Found mod file forge-1.18.1-39.0.59-universal.jar of type MOD with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@4d18aa28
+[16:14:05] [main/INFO]: Compatibility level set to JAVA_17
+[16:14:05] [main/INFO]: Launching target 'forgeserver' with arguments [nogui]
+[16:14:05] [main/WARN]: Reference map 'croptopia.refmap.json' for croptopia.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:14:05] [main/WARN]: Reference map 'fallingthrough.refmap.json' for fallingthrough.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:14:05] [main/WARN]: Reference map 'medievalmusic.refmap.json' for medievalmusic.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:14:05] [main/WARN]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:14:06] [main/FATAL]: Attempted to load class net/minecraft/client/renderer/ItemInHandRenderer for invalid dist DEDICATED_SERVER
+[16:14:06] [main/WARN]: Error loading class: net/minecraft/client/renderer/ItemInHandRenderer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/ItemInHandRenderer for invalid dist DEDICATED_SERVER)
+[16:14:06] [main/WARN]: @Mixin target net.minecraft.client.renderer.ItemInHandRenderer was not found tetra.mixins.json:ItemInHandRendererMixin
+[16:14:06] [main/FATAL]: Attempted to load class net/minecraft/client/renderer/entity/player/PlayerRenderer for invalid dist DEDICATED_SERVER
+[16:14:06] [main/WARN]: Error loading class: net/minecraft/client/renderer/entity/player/PlayerRenderer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/entity/player/PlayerRenderer for invalid dist DEDICATED_SERVER)
+[16:14:06] [main/WARN]: @Mixin target net.minecraft.client.renderer.entity.player.PlayerRenderer was not found tetra.mixins.json:MixinPlayerRenderer
+[16:14:06] [main/WARN]: Error loading class: de/maxhenkel/gravestone/events/DeathEvents (java.lang.ClassNotFoundException: de.maxhenkel.gravestone.events.DeathEvents)
+[16:14:06] [main/WARN]: Error loading class: de/maxhenkel/corpse/events/DeathEvents (java.lang.ClassNotFoundException: de.maxhenkel.corpse.events.DeathEvents)
+[16:14:13] [modloading-worker-0/WARN]: Config field without expected type, will not validate list content (compressBlacklist in net.blay09.mods.craftingtweaks.config.CraftingTweaksConfigData$Common)
+[16:14:13] [modloading-worker-0/INFO]: Forge mod loading, version 39.0.59, for MC 1.18.1 with MCP 20211210.034407
+[16:14:13] [modloading-worker-0/WARN]: Config field without expected type, will not validate list content (disabledAddons in net.blay09.mods.craftingtweaks.config.CraftingTweaksConfigData$Client)
+[16:14:13] [modloading-worker-0/INFO]: MinecraftForge v39.0.59 Initialized
+[16:14:17] [main/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[16:14:17] [main/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[16:14:17] [modloading-worker-0/INFO]: fallingthrough mod initialized
+[16:14:17] [modloading-worker-0/INFO]: Connectivity initialized
+[16:14:17] [modloading-worker-0/INFO]: farsight_view mod initialized
+[16:14:17] [modloading-worker-0/INFO]: Zooming chunks initiated!
+[16:14:17] [modloading-worker-0/INFO]: medievalmusic mod initialized
+[16:14:17] [modloading-worker-0/INFO]: Hostile Villages initialized
+[16:14:17] [modloading-worker-0/INFO]: betterfpsdist mod initialized
+[16:14:18] [Forge Version Check/INFO]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[16:14:18] [modloading-worker-0/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
+[16:14:18] [modloading-worker-0/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[16:14:18] [main/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
+[16:14:18] [main/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[16:14:18] [modloading-worker-0/INFO]: Integration TOP
+[16:14:18] [modloading-worker-0/WARN]: Register mappings
+[16:14:19] [Forge Version Check/INFO]: [goblintraders] Found status: BETA Current: 1.7.0 Target: 1.7.0
+[16:14:19] [Forge Version Check/INFO]: [configured] Starting version check at https://mrcrayfish.com/modupdatejson?id=configured
+[16:14:19] [Forge Version Check/INFO]: [configured] Found status: BETA_OUTDATED Current: 1.5.1 Target: 1.5.3
+[16:14:19] [Forge Version Check/INFO]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[16:14:20] [Forge Version Check/INFO]: [forge] Found status: OUTDATED Current: 39.0.59 Target: 39.1.0
+[16:14:20] [Forge Version Check/INFO]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.18.1
+[16:14:20] [Forge Version Check/INFO]: [enchdesc] Found status: BETA Current: 9.0.13 Target: 9.0.13
+[16:14:20] [Forge Version Check/INFO]: [corail_woodcutter] Starting version check at https://raw.githubusercontent.com/Corail31/trash/master/update_woodcutter.json
+[16:14:20] [Forge Version Check/INFO]: [corail_woodcutter] Found status: UP_TO_DATE Current: 2.2.1 Target: null
+[16:14:20] [Forge Version Check/INFO]: [advancednetherite] Starting version check at https://raw.githubusercontent.com/Autovw/ModUpdates/master/advancednetherite/update.json
+[16:14:20] [Forge Version Check/INFO]: [advancednetherite] Found status: BETA_OUTDATED Current: 1.10.0 Target: 1.10.2
+[16:14:20] [Forge Version Check/INFO]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[16:14:20] [Forge Version Check/INFO]: [tombstone] Found status: UP_TO_DATE Current: 7.4.1 Target: null
+[16:14:20] [Forge Version Check/INFO]: [fastleafdecay] Starting version check at https://www.olafkeijsers.net/fastleafdecay-update.json
+[16:14:20] [Forge Version Check/INFO]: [fastleafdecay] Found status: AHEAD Current: 27.2 Target: null
+[16:14:22] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:14:22] [main/INFO]: Injecting existing registry data into this CLIENT instance
+[16:14:25] [main/WARN]: Assets URL 'union:/home/sid_3715153/minecraft_forge_118/libraries/net/minecraft/server/1.18.1-20211210.034407/server-1.18.1-20211210.034407-srg.jar%2389!/assets/.mcassetsroot' uses unexpected schema
+[16:14:25] [main/WARN]: Assets URL 'union:/home/sid_3715153/minecraft_forge_118/libraries/net/minecraft/server/1.18.1-20211210.034407/server-1.18.1-20211210.034407-srg.jar%2389!/data/.mcassetsroot' uses unexpected schema
+[16:14:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:14:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:14:26] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:14:26] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:14:26] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:14:26] [main/WARN]: Ambiguity between arguments [structurize, scan, pos1, pos2, anchor_pos] and [structurize, scan, pos1, pos2, player] with inputs: [^1 ^ ^-5, 0 0 0, ~ ~ ~, ^ ^ ^, ~0.5 ~1 ~-5]
+[16:14:26] [main/INFO]: Reloading ResourceManager: Default, trashslot-forge-1.18-11.0.0.jar, netherportalfix-forge-1.18-9.0.0.jar, fallingthrough-1.18.1-2.1.jar, jei-1.18.1-9.2.3.82.jar, goblintraders-1.7.0-1.18.1.jar, connectivity-1.18-2.6.jar, waystones-forge-1.18.1-9.0.3.jar, XaerosWorldMap_1.20.0_Forge_1.18.jar, cookingforblockheads-forge-1.18.1-11.1.0.jar, awesomedungeon-1.1.4.jar, comforts-forge-1.18-5.0.0.1.jar, NaturesCompass-1.18.1-1.9.4-forge.jar, configured-1.5.1-1.18.1.jar, potionsmaster-0.5.2-1.18.1-39.0.19.jar, sophisticatedbackpacks-1.18.1-3.15.9.533.jar, farsight-1.18-1.6.jar, balm-2.4.1+0.jar, PackingTape-1.18-0.12.2.jar, dynview-1.18.1-2.4.jar, CopperEquipment-Forge1.18.1-1.2.jar, forge-1.18.1-39.0.59-universal.jar, emojiful-1.18-3.0.0.jar, craftingtweaks-forge-1.18.1-14.0.2.jar, AwesomeDungeonOcean-Forge-1.18-1.0.3.jar, cleancut-mc1.18-3.0-forge.jar, vanillaplustools-1.18-1.0.jar, repurposed_structures_forge-4.0.9+1.18.1.jar, EnchantmentDescriptions-Forge-1.18.1-9.0.13.jar, theoneprobe-1.18-5.0.3.jar, CreativeCore_v2.4.1_mc1.18.1.jar, medievalmusic-1.18-1.2.jar, domum_ornamentum-1.18.1-1.0.39-ALPHA-universal.jar, hostilevillages-1.18.1-3.8.jar, betterfpsdist-1.18.1-1.4.jar, curios-forge-1.18.1-5.0.6.0.jar, tetra-1.18.1-4.8.0.jar, mutil-1.18.1-4.2.0.jar, corail_woodcutter-1.18-2.2.1.jar, blockui-1.18.2-0.0.47-ALPHA.jar, Xaeros_Minimap_22.1.0_Forge_1.18.jar, Croptopia-1.18-FORGE-1.8.0.jar, collective-1.18.1-3.8.jar, advancednetherite-1.10.0-1.18.1.jar, storageracks-1.18-1.0.2.jar, elevatorid-1.18-1.8.3.jar, tombstone-7.4.1-1.18.jar, Global Data-  Resourcepacks-forge-1.18.1-1.11.3.jar, structurize-1.18.1-1.0.352-ALPHA.jar, multi-piston-1.18-1.2.2-ALPHA.jar, minecolonies-1.18.1-1.0.502-BETA.jar, FastLeafDecay-27.2.jar, PlayerRevive_v2.0.0-pre06_mc1.18.1.jar
+[16:14:32] [Worker-Main-12/ERROR]: Parsing error loading recipe copperequipment:snowy_copper_chestplate
+com.google.gson.JsonSyntaxException: Unknown item 'copperequipment:snowy_skin'
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:276) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:275) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:224) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[forge-1.18.1-39.0.59-universal.jar%2393!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:156) ~[forge-1.18.1-39.0.59-universal.jar%2393!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43917_(Ingredient.java:199) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.world.item.crafting.UpgradeRecipe$Serializer.m_6729_(UpgradeRecipe.java:78) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.world.item.crafting.UpgradeRecipe$Serializer.m_6729_(UpgradeRecipe.java:75) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_44045_(RecipeManager.java:144) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:60) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:35) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:71) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:70) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:71) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:70) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:71) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:70) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2147) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance$1.m_10855_(SimpleReloadInstance.java:53) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance$1.m_6769_(SimpleReloadInstance.java:50) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) [?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+[16:14:32] [Worker-Main-12/ERROR]: Parsing error loading recipe copperequipment:snowy_copper_helmet
+com.google.gson.JsonSyntaxException: Unknown item 'copperequipment:snowy_skin'
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:276) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:275) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:224) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[forge-1.18.1-39.0.59-universal.jar%2393!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:156) ~[forge-1.18.1-39.0.59-universal.jar%2393!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43917_(Ingredient.java:199) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.world.item.crafting.UpgradeRecipe$Serializer.m_6729_(UpgradeRecipe.java:78) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.world.item.crafting.UpgradeRecipe$Serializer.m_6729_(UpgradeRecipe.java:75) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_44045_(RecipeManager.java:144) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:60) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:35) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:71) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:70) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:71) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:70) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:71) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:70) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2147) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance$1.m_10855_(SimpleReloadInstance.java:53) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance$1.m_6769_(SimpleReloadInstance.java:50) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) [?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+[16:14:32] [Worker-Main-12/ERROR]: Parsing error loading recipe copperequipment:snowy_copper_boots
+com.google.gson.JsonSyntaxException: Unknown item 'copperequipment:snowy_skin'
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:276) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:275) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:224) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[forge-1.18.1-39.0.59-universal.jar%2393!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:156) ~[forge-1.18.1-39.0.59-universal.jar%2393!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43917_(Ingredient.java:199) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.world.item.crafting.UpgradeRecipe$Serializer.m_6729_(UpgradeRecipe.java:78) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.world.item.crafting.UpgradeRecipe$Serializer.m_6729_(UpgradeRecipe.java:75) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_44045_(RecipeManager.java:144) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:60) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:35) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:71) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:70) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:71) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:70) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:71) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:70) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2147) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance$1.m_10855_(SimpleReloadInstance.java:53) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance$1.m_6769_(SimpleReloadInstance.java:50) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) [?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+[16:14:32] [Worker-Main-12/INFO]: Loaded 11 recipes
+[16:14:37] [Worker-Main-12/INFO]: Loaded 2007 advancements
+[16:14:37] [Worker-Main-12/INFO]: Beginning load of custom recipes for colony workers
+[16:14:37] [Worker-Main-12/INFO]: Loaded 128 recipes for 14 crafters
+[16:14:37] [Worker-Main-12/INFO]: Beginning load of research for University.
+[16:14:37] [Worker-Main-12/INFO]: Loaded 186 recipes for 4 research branches
+[16:14:37] [Worker-Main-12/INFO]: Loaded   1 tiers
+[16:14:37] [Worker-Main-12/INFO]: Loaded   6 tweaks
+[16:14:37] [Worker-Main-12/INFO]: Loaded  76 materials
+[16:14:37] [Worker-Main-12/INFO]: Loaded 104 improvements
+[16:14:37] [Worker-Main-12/INFO]: Loaded  69 modules
+[16:14:38] [Worker-Main-12/INFO]: Loaded   0 enchantments
+[16:14:38] [Worker-Main-12/INFO]: Loaded  15 synergies
+[16:14:38] [Worker-Main-12/INFO]: Loaded  30 replacements
+[16:14:38] [Worker-Main-12/INFO]: Loaded 272 schematics
+[16:14:38] [Worker-Main-12/INFO]: Loaded  14 crafting_effects
+[16:14:38] [Worker-Main-12/INFO]: Loaded  17 repairs
+[16:14:38] [Worker-Main-12/INFO]: Loaded   2 actions
+[16:14:38] [Worker-Main-12/INFO]: Loaded   0 destabilization
+[16:14:38] [Worker-Main-12/INFO]: Loaded  45 structures
+[16:14:43] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[16:14:43] [Server thread/INFO]: Loading properties
+[16:14:43] [Server thread/INFO]: Default game type: SURVIVAL
+[16:14:43] [Server thread/INFO]: Generating keypair
+[16:14:44] [Server thread/INFO]: Starting Minecraft server on 176.57.167.237:25565
+[16:14:44] [Server thread/INFO]: Using epoll channel type
+[16:14:50] [Server thread/INFO]: Preparing level "world"
+[16:14:51] [Server thread/ERROR]: java.lang.IllegalArgumentException: The given compound holds an unknown output type for this Controller: 
+[16:14:51] [Server thread/ERROR]: java.lang.NullPointerException
+[16:14:51] [Server thread/ERROR]: java.lang.NullPointerException
+[16:14:52] [Server thread/ERROR]: Was unable to check if minecraft:overworld is using Terraforged's ChunkGenerator.
+[16:14:52] [Server thread/ERROR]: Was unable to check if minecraft:overworld is using Terraforged's ChunkGenerator.
+[16:14:52] [Server thread/ERROR]: Was unable to check if minecraft:overworld is using Terraforged's ChunkGenerator.
+[16:14:52] [Server thread/ERROR]: Was unable to check if minecraft:the_nether is using Terraforged's ChunkGenerator.
+[16:14:52] [Server thread/ERROR]: Was unable to check if minecraft:the_nether is using Terraforged's ChunkGenerator.
+[16:14:52] [Server thread/ERROR]: Was unable to check if minecraft:the_nether is using Terraforged's ChunkGenerator.
+[16:14:52] [Netty Epoll Server IO #1/INFO]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[16:14:52] [Server thread/ERROR]: Was unable to check if minecraft:the_end is using Terraforged's ChunkGenerator.
+[16:14:52] [Server thread/ERROR]: Was unable to check if minecraft:the_end is using Terraforged's ChunkGenerator.
+[16:14:52] [Server thread/ERROR]: Was unable to check if minecraft:the_end is using Terraforged's ChunkGenerator.
+[16:14:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:14:54] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[16:14:54] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[16:14:54] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[16:14:54] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[16:14:54] [Netty Epoll Server IO #2/INFO]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[16:14:54] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[16:14:55] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[16:14:55] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[16:14:56] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[16:14:56] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[16:14:57] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[16:14:57] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[16:14:58] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[16:14:58] [Worker-Main-8/INFO]: Preparing spawn area: 4%
+[16:14:59] [Worker-Main-11/INFO]: Preparing spawn area: 4%
+[16:14:59] [Worker-Main-10/INFO]: Preparing spawn area: 15%
+[16:15:00] [Worker-Main-10/INFO]: Preparing spawn area: 24%
+[16:15:00] [Worker-Main-12/INFO]: Preparing spawn area: 27%
+[16:15:01] [Worker-Main-11/INFO]: Preparing spawn area: 29%
+[16:15:01] [Worker-Main-10/INFO]: Preparing spawn area: 33%
+[16:15:02] [Worker-Main-11/INFO]: Preparing spawn area: 50%
+[16:15:02] [Worker-Main-12/INFO]: Preparing spawn area: 66%
+[16:15:03] [Server thread/INFO]: Time elapsed: 10928 ms
+[16:15:03] [Server thread/INFO]: Done (19.219s)! For help, type "help"
+[16:15:03] [Server thread/INFO]: Starting GS4 status listener
+[16:15:03] [Server thread/INFO]: Thread Query Listener started
+[16:15:03] [Query Listener #1/INFO]: Query running on 176.57.167.237:25565
+[16:15:03] [Server thread/INFO]: Successfully initialized permission handler forge:default_handler
+[16:15:03] [Server thread/INFO]: 156 woodcutting recipes loaded
+[16:15:03] [Server thread/INFO]: Trying jar discover: assets/structurize
+[16:15:03] [Server thread/INFO]: Trying jar discover: assets/minecolonies
+[16:15:05] [Server thread/INFO]: Load additional huts or decorations from ./structurize/schematics
+[16:15:05] [Server thread/INFO]: Load cached schematic from ./structurize/cache
+[16:15:05] [Server thread/INFO]: Load cached schematic from ./structurize/cache
+[16:15:05] [Server thread/INFO]: Finished discovering saplings 34
+[16:15:05] [Server thread/INFO]: Finished discovering Ores 19 22
+[16:15:05] [Server thread/INFO]: Finished discovering plantables 19
+[16:15:05] [Server thread/INFO]: Finished discovering food 272 295
+[16:15:05] [Server thread/INFO]: Finished discovering fuel 206
+[16:15:05] [Server thread/INFO]: Finished discovering compostables 465
+[16:15:05] [Server thread/INFO]: Finished discovering lucky oreBlocks 175
+[16:15:05] [Server thread/INFO]: Finished discovering recruitment costs
+[16:15:05] [Server thread/INFO]: Finished discovering diseases
+[16:15:05] [Server thread/WARN]: Unhandled modifier in loot table: minecraft:set_potion
+[16:15:05] [Server thread/WARN]: Unhandled modifier in loot table: tombstone:delayed_nbt_loot
+[16:15:05] [Server thread/WARN]: Unhandled modifier in loot table: tombstone:delayed_nbt_loot
+[16:15:05] [Server thread/WARN]: Unhandled modifier in loot table: tombstone:delayed_nbt_loot
+[16:15:05] [Server thread/WARN]: Unhandled modifier in loot table: tombstone:delayed_nbt_loot
+[16:35:03] [Server thread/INFO]: All players have been successfully backed up
+[16:55:03] [Server thread/INFO]: All players have been successfully backed up
+[17:05:04] [User Authenticator #1/INFO]: UUID of player Astram is 5868eed1-1a26-48a6-8b0a-8c4aa69a7c54
+[17:05:06] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2d49caab
+[17:05:06] [Server thread/INFO]: Astram[/95.91.210.81:4170] logged in with entity id 785 at (321.02824652429615, 92.0, -153.67390750323892)
+[17:05:06] [Server thread/INFO]: Astram joined the game
+[17:05:06] [Server thread/INFO]: Sending data to client: Astram
+[17:05:06] [Server thread/INFO]: New Server UUID 2a24bb73-51d9-4398-9b6d-7b5dbccf2042
+[17:05:35] [Server thread/INFO]: Mean tick: 10ms increasing chunk view distance to: 9
+[17:05:55] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@29272975
+[17:06:05] [Server thread/INFO]: Mean tick: 12ms increasing simulation distance to: 8
+[17:06:35] [Server thread/INFO]: Mean tick: 11ms increasing chunk view distance to: 10
+[17:07:05] [Server thread/INFO]: Mean tick: 12ms increasing simulation distance to: 9
+[17:07:35] [Server thread/INFO]: Mean tick: 11ms increasing chunk view distance to: 11
+[17:08:05] [Server thread/INFO]: Mean tick: 12ms increasing simulation distance to: 10
+[17:08:35] [Server thread/INFO]: Mean tick: 12ms increasing chunk view distance to: 12
+[17:11:23] [Server thread/WARN]: File jar resolve FAILED for: schematics/asian/miner/minermainshaft.blueprint
+[17:14:03] [Server thread/WARN]: File jar resolve FAILED for: schematics/asian/miner/minermainshaft.blueprint
+[17:15:03] [Server thread/INFO]: All players have been successfully backed up
+[17:17:58] [Server thread/WARN]: File jar resolve FAILED for: schematics/asian/miner/minermainshaft.blueprint
+[17:20:05] [User Authenticator #2/INFO]: UUID of player LawlessCrow is 52950971-7662-44bd-a5c2-07693acd438c
+[17:20:07] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1c602c95
+[17:20:07] [Server thread/INFO]: LawlessCrow[/79.140.112.246:59501] logged in with entity id 5191 at (419.76560476492, 128.0, -113.97412287484688)
+[17:20:07] [Server thread/INFO]: LawlessCrow joined the game
+[17:20:07] [Server thread/INFO]: Sending data to client: LawlessCrow
+[17:20:31] [Server thread/INFO]: <Astram> hi
+[17:20:39] [Server thread/INFO]: <LawlessCrow> heyho
+[17:20:58] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=420, y=127, z=-112} BlockPos{x=420, y=126, z=-112}
+[17:20:58] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=420, y=125, z=-112} BlockPos{x=420, y=126, z=-112}
+[17:20:58] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=420, y=125, z=-112} BlockPos{x=420, y=126, z=-112}
+[17:20:58] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=420, y=124, z=-114} BlockPos{x=420, y=126, z=-112}
+[17:20:58] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=420, y=124, z=-114} BlockPos{x=420, y=126, z=-112}
+[17:20:58] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=419, y=125, z=-115} BlockPos{x=420, y=126, z=-112}
+[17:21:07] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=417, y=123, z=-117} BlockPos{x=417, y=123, z=-116}
+[17:21:11] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=420, y=123, z=-110} BlockPos{x=419, y=125, z=-111}
+[17:21:11] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=420, y=123, z=-110} BlockPos{x=419, y=125, z=-111}
+[17:21:45] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=402, y=108, z=-117} BlockPos{x=407, y=108, z=-117}
+[17:21:45] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=408, y=107, z=-117} BlockPos{x=407, y=108, z=-117}
+[17:22:32] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=396, y=104, z=-113} BlockPos{x=397, y=104, z=-113}
+[17:23:48] [Server thread/INFO]: <LawlessCrow> und was treibst?
+[17:24:00] [Server thread/INFO]: <Astram> haus4 und courier2
+[17:26:08] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=425, y=113, z=-87} BlockPos{x=424, y=112, z=-86}
+[17:26:36] [Server thread/WARN]: File jar resolve FAILED for: schematics/asian/miner/minermainshaft.blueprint
+[17:26:44] [Server thread/INFO]: <LawlessCrow> ich bereite mal weiter die quarrygrube vor ^^
+[17:26:49] [Server thread/INFO]: <Astram> oki
+[17:27:19] [Server thread/INFO]: <LawlessCrow> und schau dann ab und zu mal ob den buildern was fehlt
+[17:27:50] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=422, y=121, z=-103} BlockPos{x=422, y=119, z=-102}
+[17:28:39] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=415, y=118, z=-106} BlockPos{x=415, y=119, z=-108}
+[17:28:59] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=412, y=120, z=-109} BlockPos{x=412, y=119, z=-109}
+[17:30:18] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=420, y=124, z=-120} BlockPos{x=419, y=123, z=-120}
+[17:30:18] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=420, y=124, z=-120} BlockPos{x=419, y=123, z=-120}
+[17:30:28] [Server thread/WARN]: File jar resolve FAILED for: schematics/asian/miner/minermainshaft.blueprint
+[17:32:42] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=410, y=110, z=-114} BlockPos{x=410, y=110, z=-115}
+[17:33:14] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=415, y=109, z=-88} BlockPos{x=415, y=108, z=-88}
+[17:33:14] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=415, y=109, z=-88} BlockPos{x=415, y=108, z=-88}
+[17:33:21] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=422, y=110, z=-89} BlockPos{x=423, y=109, z=-89}
+[17:35:03] [Server thread/INFO]: All players have been successfully backed up
+[17:35:29] [Server thread/INFO]: <LawlessCrow> nice
+[17:36:03] [Server thread/INFO]: <LawlessCrow> mit warehouse 4 kann man bis zu 8 couriere haben
+[17:36:10] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=412, y=110, z=-94} BlockPos{x=412, y=109, z=-95}
+[17:36:10] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=412, y=110, z=-94} BlockPos{x=412, y=109, z=-95}
+[17:36:10] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=412, y=110, z=-94} BlockPos{x=412, y=109, z=-95}
+[17:36:16] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=403, y=109, z=-103} BlockPos{x=403, y=108, z=-103}
+[17:36:21] [Server thread/INFO]: <Astram> jop da geht noch mehr
+[17:36:27] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=404, y=107, z=-98} BlockPos{x=404, y=109, z=-98}
+[17:36:27] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=404, y=107, z=-98} BlockPos{x=404, y=109, z=-98}
+[17:36:27] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=404, y=107, z=-98} BlockPos{x=404, y=109, z=-98}
+[17:37:53] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=404, y=110, z=-111} BlockPos{x=404, y=109, z=-111}
+[17:37:53] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=404, y=110, z=-111} BlockPos{x=404, y=109, z=-111}
+[17:37:53] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=404, y=110, z=-111} BlockPos{x=404, y=109, z=-111}
+[17:39:55] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=414, y=111, z=-100} BlockPos{x=414, y=110, z=-100}
+[17:46:29] [Server thread/INFO]: <LawlessCrow> sind jetzt ale builder auf 4?
+[17:46:41] [Server thread/INFO]: <Astram> ne miracle nicht
+[17:47:30] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=396, y=104, z=-119} BlockPos{x=403, y=109, z=-115}
+[17:49:01] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=401, y=110, z=-106} BlockPos{x=403, y=108, z=-106}
+[17:50:20] [Server thread/INFO]: <LawlessCrow> ob ich wenn miracle fertig ist den steinbruch anfange?
+[17:50:47] [Server thread/INFO]: <Astram> klar wieso nicht, bryant ist ja auch die ganze zeit frei
+[17:51:04] [Server thread/INFO]: <LawlessCrow> bryant ist frei?
+[17:51:11] [Server thread/INFO]: <LawlessCrow> der kann dann die barracke auf 4 bringen
+[17:51:17] [Server thread/INFO]: <Astram> jau
+[17:51:33] [Server thread/INFO]: <Astram> dann viel erfolg! bin erstmal raus bis später
+[17:51:36] [Server thread/INFO]: <LawlessCrow> oki
+[17:51:40] [Server thread/INFO]: Astram lost connection: Disconnected
+[17:51:40] [Server thread/INFO]: Astram left the game
+[17:55:03] [Server thread/INFO]: All players have been successfully backed up
+[17:55:45] [Server thread/WARN]: File jar resolve FAILED for: schematics/asian/miner/minermainshaft.blueprint
+[18:01:13] [Server thread/WARN]: File jar resolve FAILED for: schematics/asian/miner/minermainshaft.blueprint
+[18:03:33] [Server thread/WARN]: File jar resolve FAILED for: schematics/asian/miner/minermainshaft.blueprint
+[18:08:17] [Server thread/WARN]: File jar resolve FAILED for: schematics/asian/miner/minermainshaft.blueprint
+[18:15:03] [Server thread/INFO]: All players have been successfully backed up
+[18:30:45] [Server thread/WARN]: File jar resolve FAILED for: schematics/asian/miner/minermainshaft.blueprint
+[18:34:29] [Server thread/WARN]: File jar resolve FAILED for: schematics/asian/miner/minermainshaft.blueprint
+[18:35:03] [Server thread/INFO]: All players have been successfully backed up
+[18:39:37] [Server thread/WARN]: File jar resolve FAILED for: schematics/asian/miner/minermainshaft.blueprint
+[18:45:08] [Server thread/WARN]: File jar resolve FAILED for: schematics/asian/miner/minermainshaft.blueprint
+[18:45:49] [Server thread/INFO]: LawlessCrow lost connection: Disconnected
+[18:45:49] [Server thread/INFO]: LawlessCrow left the game
+[18:55:03] [Server thread/INFO]: All players have been successfully backed up
+[18:58:10] [User Authenticator #3/INFO]: UUID of player Astram is 5868eed1-1a26-48a6-8b0a-8c4aa69a7c54
+[18:58:12] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@339b122
+[18:58:12] [Server thread/INFO]: Astram[/95.91.210.81:4218] logged in with entity id 30738 at (348.3594006355311, 92.0, -159.170253885253)
+[18:58:12] [Server thread/INFO]: Astram joined the game
+[18:58:12] [Server thread/INFO]: Sending data to client: Astram
+[18:59:00] [Server thread/WARN]: File jar resolve FAILED for: schematics/asian/miner/minermainshaft.blueprint
+[19:15:03] [Server thread/INFO]: All players have been successfully backed up
+[19:16:29] [Server thread/WARN]: File jar resolve FAILED for: schematics/asian/miner/minermainshaft.blueprint
+[19:24:10] [Server thread/WARN]: File jar resolve FAILED for: schematics/asian/miner/minermainshaft.blueprint
+[19:28:07] [Server thread/WARN]: File jar resolve FAILED for: schematics/asian/miner/minermainshaft.blueprint
+[19:29:00] [Server thread/INFO]: Astram lost connection: Disconnected
+[19:29:00] [Server thread/INFO]: Astram left the game
+[19:29:05] [Server thread/WARN]: File jar resolve FAILED for: schematics/asian/miner/minermainshaft.blueprint
+[19:31:06] [User Authenticator #4/INFO]: UUID of player TizzyPhone is 4b1b6963-96e1-4275-bc83-4ac02a14d787
+[19:31:08] [User Authenticator #5/INFO]: UUID of player LawlessCrow is 52950971-7662-44bd-a5c2-07693acd438c
+[19:31:08] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6abf40bd
+[19:31:08] [Server thread/INFO]: TizzyPhone[/79.140.112.246:53866] logged in with entity id 38962 at (317.5, 92.0, -182.5)
+[19:31:08] [Server thread/INFO]: TizzyPhone joined the game
+[19:31:08] [Server thread/INFO]: Sending data to client: TizzyPhone
+[19:31:10] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@72fc4e34
+[19:31:10] [Server thread/INFO]: LawlessCrow[/79.140.112.246:61338] logged in with entity id 39396 at (388.6746550452861, 103.0, -115.81517758370036)
+[19:31:10] [Server thread/INFO]: LawlessCrow joined the game
+[19:31:10] [Server thread/INFO]: Sending data to client: LawlessCrow
+[19:32:01] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=423, y=123, z=-116} BlockPos{x=423, y=123, z=-115}
+[19:32:01] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=423, y=123, z=-116} BlockPos{x=423, y=123, z=-115}
+[19:32:01] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=423, y=123, z=-116} BlockPos{x=423, y=123, z=-115}
+[19:35:03] [Server thread/INFO]: All players have been successfully backed up
+[19:41:11] [Server thread/WARN]: File jar resolve FAILED for: schematics/asian/miner/minermainshaft.blueprint
+[19:44:57] [Server thread/WARN]: File jar resolve FAILED for: schematics/asian/miner/minermainshaft.blueprint
+[19:46:50] [Server thread/WARN]: File jar resolve FAILED for: schematics/asian/miner/minermainshaft.blueprint
+[19:55:03] [Server thread/INFO]: All players have been successfully backed up
+[20:00:44] [Server thread/WARN]: File jar resolve FAILED for: schematics/asian/miner/minermainshaft.blueprint
+[20:04:58] [Server thread/INFO]: TizzyPhone lost connection: Disconnected
+[20:04:58] [Server thread/INFO]: TizzyPhone left the game
+[20:05:27] [Server thread/WARN]: File jar resolve FAILED for: schematics/asian/miner/minermainshaft.blueprint
+[20:07:42] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=424, y=110, z=-107} BlockPos{x=425, y=110, z=-106}
+[20:08:18] [Server thread/INFO]: LawlessCrow lost connection: Disconnected
+[20:08:18] [Server thread/INFO]: LawlessCrow left the game
+[20:15:03] [Server thread/INFO]: All players have been successfully backed up
+[20:35:03] [Server thread/INFO]: All players have been successfully backed up
+[20:55:03] [Server thread/INFO]: All players have been successfully backed up
+[20:56:43] [User Authenticator #6/INFO]: UUID of player LawlessCrow is 52950971-7662-44bd-a5c2-07693acd438c
+[20:56:45] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4b6dd1b7
+[20:56:45] [Server thread/INFO]: LawlessCrow[/79.140.112.246:49415] logged in with entity id 50377 at (392.9382030873508, 103.0, -95.17069995567377)
+[20:56:45] [Server thread/INFO]: LawlessCrow joined the game
+[20:56:45] [Server thread/INFO]: Sending data to client: LawlessCrow
+[20:57:07] [Server thread/WARN]: File jar resolve FAILED for: schematics/asian/miner/minermainshaft.blueprint
+[20:58:58] [User Authenticator #7/INFO]: UUID of player Diyb is 5b2a7dd5-fb88-436f-a05d-570f530ab90d
+[20:59:00] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6dedf660
+[20:59:00] [Server thread/INFO]: Diyb[/77.8.109.214:58581] logged in with entity id 51556 at (324.53695837940097, 93.0, -151.86240174856155)
+[20:59:00] [Server thread/INFO]: Diyb joined the game
+[20:59:01] [Server thread/INFO]: Sending data to client: Diyb
+[20:59:29] [Server thread/WARN]: File jar resolve FAILED for: schematics/asian/miner/minermainshaft.blueprint
+[21:04:59] [Server thread/WARN]: File jar resolve FAILED for: schematics/asian/miner/minermainshaft.blueprint
+[21:09:17] [Server thread/WARN]: File jar resolve FAILED for: schematics/asian/miner/minermainshaft.blueprint
+[21:11:12] [Server thread/WARN]: File jar resolve FAILED for: schematics/asian/miner/minermainshaft.blueprint
+[21:11:57] [User Authenticator #8/INFO]: UUID of player TizzyPhone is 4b1b6963-96e1-4275-bc83-4ac02a14d787
+[21:12:00] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@676f46c3
+[21:12:00] [Server thread/INFO]: TizzyPhone[/79.140.112.246:55228] logged in with entity id 55103 at (290.5, 92.0, -87.5)
+[21:12:00] [Server thread/INFO]: TizzyPhone joined the game
+[21:12:00] [Server thread/INFO]: Sending data to client: TizzyPhone
+[21:14:46] [Server thread/INFO]: Colony 1 - new AbstractBuilding for class net.minecraft.world.level.block.state.BlockState at BlockPos{x=335, y=92, z=-258}
+[21:15:04] [Server thread/INFO]: All players have been successfully backed up
+[21:20:59] [User Authenticator #9/INFO]: UUID of player Astram is 5868eed1-1a26-48a6-8b0a-8c4aa69a7c54
+[21:21:01] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5cab504a
+[21:21:01] [Server thread/INFO]: Astram[/95.91.210.81:4124] logged in with entity id 58538 at (320.6044873157197, 92.0, -158.25385687820847)
+[21:21:01] [Server thread/INFO]: Astram joined the game
+[21:21:01] [Server thread/INFO]: Sending data to client: Astram
+[21:35:04] [Server thread/INFO]: All players have been successfully backed up
+[21:36:55] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=259, y=105, z=-75} BlockPos{x=260, y=104, z=-76}
+[21:36:55] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=260, y=103, z=-76} BlockPos{x=260, y=104, z=-76}
+[21:40:28] [Server thread/WARN]: File jar resolve FAILED for: schematics/asian/miner/minermainshaft.blueprint
+[21:40:46] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=409, y=104, z=-100} BlockPos{x=409, y=104, z=-99}
+[21:46:43] [User Authenticator #10/INFO]: UUID of player TizzyPhone is 4b1b6963-96e1-4275-bc83-4ac02a14d787
+[21:46:45] [Server thread/INFO]: TizzyPhone lost connection: You logged in from another location
+[21:46:45] [Server thread/INFO]: TizzyPhone left the game
+[21:46:45] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4fb0915a
+[21:46:45] [Server thread/WARN]: handleDisconnection() called twice
+[21:46:45] [Server thread/INFO]: TizzyPhone[/79.140.112.246:55052] logged in with entity id 68602 at (333.6838171090409, 93.0, -151.90049426505624)
+[21:46:45] [Server thread/INFO]: TizzyPhone joined the game
+[21:46:45] [Server thread/INFO]: Sending data to client: TizzyPhone
+[21:48:16] [Server thread/WARN]: File jar resolve FAILED for: schematics/asian/miner/minermainshaft.blueprint
+[21:50:45] [Server thread/WARN]: File jar resolve FAILED for: schematics/asian/miner/minermainshaft.blueprint
+[21:55:04] [Server thread/INFO]: All players have been successfully backed up
+[21:58:52] [Server thread/WARN]: File jar resolve FAILED for: schematics/asian/miner/minermainshaft.blueprint
+[22:03:30] [Server thread/WARN]: File jar resolve FAILED for: schematics/asian/miner/minermainshaft.blueprint
+[22:04:30] [Server thread/WARN]: Astram was kicked for floating too long!
+[22:04:30] [Server thread/INFO]: Astram lost connection: Flying is not enabled on this server
+[22:04:30] [Server thread/INFO]: Astram left the game
+[22:04:42] [User Authenticator #11/INFO]: UUID of player Astram is 5868eed1-1a26-48a6-8b0a-8c4aa69a7c54
+[22:04:44] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3928f261
+[22:04:44] [Server thread/INFO]: Astram[/95.91.210.81:4173] logged in with entity id 74059 at (-82.54367040811609, 102.8500000178814, 10.517479371421837)
+[22:04:44] [Server thread/INFO]: Astram joined the game
+[22:04:44] [Server thread/INFO]: Sending data to client: Astram
+[22:04:58] [Server thread/INFO]: Astram has made the advancement [Best Friends Forever]
+[22:08:46] [Server thread/WARN]: Horse (vehicle of Astram) moved wrongly! 0.27382867854899473
+[22:11:05] [Server thread/INFO]: <LawlessCrow> :peped:
+[22:15:04] [Server thread/INFO]: All players have been successfully backed up
+[22:32:40] [Server thread/WARN]: File jar resolve FAILED for: schematics/asian/miner/minermainshaft.blueprint
+[22:34:57] [Server thread/WARN]: File jar resolve FAILED for: schematics/asian/miner/minermainshaft.blueprint
+[22:35:04] [Server thread/INFO]: All players have been successfully backed up
+[22:37:58] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=-513, y=41, z=935} BlockPos{x=-513, y=41, z=934}
+[22:42:42] [Server thread/WARN]: File jar resolve FAILED for: schematics/asian/miner/minermainshaft.blueprint
+[22:44:22] [Server thread/WARN]: File jar resolve FAILED for: schematics/asian/miner/minermainshaft.blueprint
+[22:49:36] [Server thread/WARN]: File jar resolve FAILED for: schematics/asian/miner/minermainshaft.blueprint
+[22:55:04] [Server thread/INFO]: All players have been successfully backed up
+[22:55:32] [Server thread/WARN]: File jar resolve FAILED for: schematics/asian/miner/minermainshaft.blueprint
+[23:00:16] [Server thread/WARN]: TizzyPhone moved too quickly! 686.2624999880791,29.3125,-929.3648564620354
+[23:15:04] [Server thread/INFO]: All players have been successfully backed up
+[23:19:19] [Server thread/WARN]: File jar resolve FAILED for: schematics/asian/miner/minermainshaft.blueprint
+[23:25:31] [Server thread/WARN]: File jar resolve FAILED for: schematics/asian/miner/minermainshaft.blueprint
+[23:29:40] [Server thread/WARN]: File jar resolve FAILED for: schematics/asian/miner/minermainshaft.blueprint
+[23:31:20] [Server thread/WARN]: File jar resolve FAILED for: schematics/asian/miner/minermainshaft.blueprint
+[23:31:56] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=380, y=101, z=-119} BlockPos{x=380, y=101, z=-118}
+[23:35:04] [Server thread/INFO]: All players have been successfully backed up
+[23:36:27] [Server thread/INFO]: Diyb lost connection: Disconnected
+[23:36:27] [Server thread/INFO]: Diyb left the game
+[23:44:44] [Server thread/WARN]: Statemachine for transition com.minecolonies.api.entity.ai.statemachine.AITarget@79133884 threw an exception:
+java.lang.NullPointerException: Cannot invoke "net.minecraft.core.BlockPos.m_123342_()" because "p_151571_" is null
+	at net.minecraft.world.level.LevelHeightAccessor.m_151570_(LevelHeightAccessor.java:41) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.world.level.Level.m_8055_(Level.java:387) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at com.minecolonies.coremod.entity.ai.citizen.netherworker.EntityAIWorkNether.leaveForNether(EntityAIWorkNether.java:305) ~[minecolonies-1.18.1-1.0.502-BETA.jar%2368!/:1.18.1-1.0.502-BETA]
+	at com.minecolonies.api.entity.ai.statemachine.basestatemachine.BasicTransition.getNextState(BasicTransition.java:79) ~[minecolonies-1.18.1-1.0.502-BETA.jar%2368!/:1.18.1-1.0.502-BETA]
+	at com.minecolonies.api.entity.ai.statemachine.basestatemachine.BasicStateMachine.transitionToNext(BasicStateMachine.java:163) ~[minecolonies-1.18.1-1.0.502-BETA.jar%2368!/:1.18.1-1.0.502-BETA]
+	at com.minecolonies.api.entity.ai.statemachine.basestatemachine.BasicStateMachine.checkTransition(BasicStateMachine.java:149) ~[minecolonies-1.18.1-1.0.502-BETA.jar%2368!/:1.18.1-1.0.502-BETA]
+	at com.minecolonies.api.entity.ai.statemachine.tickratestatemachine.TickRateStateMachine.checkTransition(TickRateStateMachine.java:129) ~[minecolonies-1.18.1-1.0.502-BETA.jar%2368!/:1.18.1-1.0.502-BETA]
+	at com.minecolonies.api.entity.ai.statemachine.tickratestatemachine.TickRateStateMachine.tick(TickRateStateMachine.java:108) ~[minecolonies-1.18.1-1.0.502-BETA.jar%2368!/:1.18.1-1.0.502-BETA]
+	at com.minecolonies.coremod.entity.ai.basic.AbstractAISkeleton.m_8037_(AbstractAISkeleton.java:133) ~[minecolonies-1.18.1-1.0.502-BETA.jar%2368!/:1.18.1-1.0.502-BETA]
+	at net.minecraft.world.entity.ai.goal.WrappedGoal.m_8037_(WrappedGoal.java:65) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at com.minecolonies.api.entity.CustomGoalSelector.m_25373_(CustomGoalSelector.java:231) ~[minecolonies-1.18.1-1.0.502-BETA.jar%2368!/:1.18.1-1.0.502-BETA]
+	at net.minecraft.world.entity.Mob.m_6140_(Mob.java:698) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8107_(LivingEntity.java:2501) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.world.entity.Mob.m_8107_(Mob.java:495) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.world.entity.AgeableMob.m_8107_(AgeableMob.java:127) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at com.minecolonies.api.entity.citizen.AbstractEntityCitizen.m_8107_(AbstractEntityCitizen.java:378) ~[minecolonies-1.18.1-1.0.502-BETA.jar%2368!/:1.18.1-1.0.502-BETA]
+	at com.minecolonies.coremod.entity.citizen.EntityCitizen.m_8107_(EntityCitizen.java:466) ~[minecolonies-1.18.1-1.0.502-BETA.jar%2368!/:1.18.1-1.0.502-BETA]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2248) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.world.entity.Mob.m_8119_(Mob.java:307) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8647_(ServerLevel.java:649) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.world.level.Level.m_46653_(Level.java:487) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.server.level.ServerLevel.m_184063_(ServerLevel.java:316) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.world.level.entity.EntityTickList.m_156910_(EntityTickList.java:54) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:296) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:868) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:328) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:808) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:668) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:258) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+[23:44:44] [Server thread/ERROR]: Pausing Entity Deacon N. Fudd (com.minecolonies.job.netherworker) at BlockPos{x=308, y=119, z=-45} for 100 Seconds because of error:
+[23:44:56] [Server thread/WARN]: Statemachine for transition com.minecolonies.api.entity.ai.statemachine.AITarget@79133884 threw an exception:
+java.lang.NullPointerException: Cannot invoke "net.minecraft.core.BlockPos.m_123342_()" because "p_151571_" is null
+	at net.minecraft.world.level.LevelHeightAccessor.m_151570_(LevelHeightAccessor.java:41) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.world.level.Level.m_8055_(Level.java:387) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at com.minecolonies.coremod.entity.ai.citizen.netherworker.EntityAIWorkNether.leaveForNether(EntityAIWorkNether.java:305) ~[minecolonies-1.18.1-1.0.502-BETA.jar%2368!/:1.18.1-1.0.502-BETA]
+	at com.minecolonies.api.entity.ai.statemachine.basestatemachine.BasicTransition.getNextState(BasicTransition.java:79) ~[minecolonies-1.18.1-1.0.502-BETA.jar%2368!/:1.18.1-1.0.502-BETA]
+	at com.minecolonies.api.entity.ai.statemachine.basestatemachine.BasicStateMachine.transitionToNext(BasicStateMachine.java:163) ~[minecolonies-1.18.1-1.0.502-BETA.jar%2368!/:1.18.1-1.0.502-BETA]
+	at com.minecolonies.api.entity.ai.statemachine.basestatemachine.BasicStateMachine.checkTransition(BasicStateMachine.java:149) ~[minecolonies-1.18.1-1.0.502-BETA.jar%2368!/:1.18.1-1.0.502-BETA]
+	at com.minecolonies.api.entity.ai.statemachine.tickratestatemachine.TickRateStateMachine.checkTransition(TickRateStateMachine.java:129) ~[minecolonies-1.18.1-1.0.502-BETA.jar%2368!/:1.18.1-1.0.502-BETA]
+	at com.minecolonies.api.entity.ai.statemachine.tickratestatemachine.TickRateStateMachine.tick(TickRateStateMachine.java:108) ~[minecolonies-1.18.1-1.0.502-BETA.jar%2368!/:1.18.1-1.0.502-BETA]
+	at com.minecolonies.coremod.entity.ai.basic.AbstractAISkeleton.m_8037_(AbstractAISkeleton.java:133) ~[minecolonies-1.18.1-1.0.502-BETA.jar%2368!/:1.18.1-1.0.502-BETA]
+	at net.minecraft.world.entity.ai.goal.WrappedGoal.m_8037_(WrappedGoal.java:65) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at com.minecolonies.api.entity.CustomGoalSelector.m_25373_(CustomGoalSelector.java:231) ~[minecolonies-1.18.1-1.0.502-BETA.jar%2368!/:1.18.1-1.0.502-BETA]
+	at net.minecraft.world.entity.Mob.m_6140_(Mob.java:698) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8107_(LivingEntity.java:2501) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.world.entity.Mob.m_8107_(Mob.java:495) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.world.entity.AgeableMob.m_8107_(AgeableMob.java:127) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at com.minecolonies.api.entity.citizen.AbstractEntityCitizen.m_8107_(AbstractEntityCitizen.java:378) ~[minecolonies-1.18.1-1.0.502-BETA.jar%2368!/:1.18.1-1.0.502-BETA]
+	at com.minecolonies.coremod.entity.citizen.EntityCitizen.m_8107_(EntityCitizen.java:466) ~[minecolonies-1.18.1-1.0.502-BETA.jar%2368!/:1.18.1-1.0.502-BETA]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2248) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.world.entity.Mob.m_8119_(Mob.java:307) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8647_(ServerLevel.java:649) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.world.level.Level.m_46653_(Level.java:487) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.server.level.ServerLevel.m_184063_(ServerLevel.java:316) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.world.level.entity.EntityTickList.m_156910_(EntityTickList.java:54) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:296) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:868) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:328) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:808) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:668) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:258) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+[23:44:56] [Server thread/ERROR]: Pausing Entity Deacon N. Fudd (com.minecolonies.job.netherworker) at BlockPos{x=307, y=119, z=-47} for 200 Seconds because of error:
+[23:45:18] [Server thread/WARN]: Statemachine for transition com.minecolonies.api.entity.ai.statemachine.AITarget@79133884 threw an exception:
+java.lang.NullPointerException: Cannot invoke "net.minecraft.core.BlockPos.m_123342_()" because "p_151571_" is null
+	at net.minecraft.world.level.LevelHeightAccessor.m_151570_(LevelHeightAccessor.java:41) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.world.level.Level.m_8055_(Level.java:387) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at com.minecolonies.coremod.entity.ai.citizen.netherworker.EntityAIWorkNether.leaveForNether(EntityAIWorkNether.java:305) ~[minecolonies-1.18.1-1.0.502-BETA.jar%2368!/:1.18.1-1.0.502-BETA]
+	at com.minecolonies.api.entity.ai.statemachine.basestatemachine.BasicTransition.getNextState(BasicTransition.java:79) ~[minecolonies-1.18.1-1.0.502-BETA.jar%2368!/:1.18.1-1.0.502-BETA]
+	at com.minecolonies.api.entity.ai.statemachine.basestatemachine.BasicStateMachine.transitionToNext(BasicStateMachine.java:163) ~[minecolonies-1.18.1-1.0.502-BETA.jar%2368!/:1.18.1-1.0.502-BETA]
+	at com.minecolonies.api.entity.ai.statemachine.basestatemachine.BasicStateMachine.checkTransition(BasicStateMachine.java:149) ~[minecolonies-1.18.1-1.0.502-BETA.jar%2368!/:1.18.1-1.0.502-BETA]
+	at com.minecolonies.api.entity.ai.statemachine.tickratestatemachine.TickRateStateMachine.checkTransition(TickRateStateMachine.java:129) ~[minecolonies-1.18.1-1.0.502-BETA.jar%2368!/:1.18.1-1.0.502-BETA]
+	at com.minecolonies.api.entity.ai.statemachine.tickratestatemachine.TickRateStateMachine.tick(TickRateStateMachine.java:108) ~[minecolonies-1.18.1-1.0.502-BETA.jar%2368!/:1.18.1-1.0.502-BETA]
+	at com.minecolonies.coremod.entity.ai.basic.AbstractAISkeleton.m_8037_(AbstractAISkeleton.java:133) ~[minecolonies-1.18.1-1.0.502-BETA.jar%2368!/:1.18.1-1.0.502-BETA]
+	at net.minecraft.world.entity.ai.goal.WrappedGoal.m_8037_(WrappedGoal.java:65) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at com.minecolonies.api.entity.CustomGoalSelector.m_25373_(CustomGoalSelector.java:231) ~[minecolonies-1.18.1-1.0.502-BETA.jar%2368!/:1.18.1-1.0.502-BETA]
+	at net.minecraft.world.entity.Mob.m_6140_(Mob.java:698) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8107_(LivingEntity.java:2501) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.world.entity.Mob.m_8107_(Mob.java:495) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.world.entity.AgeableMob.m_8107_(AgeableMob.java:127) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at com.minecolonies.api.entity.citizen.AbstractEntityCitizen.m_8107_(AbstractEntityCitizen.java:378) ~[minecolonies-1.18.1-1.0.502-BETA.jar%2368!/:1.18.1-1.0.502-BETA]
+	at com.minecolonies.coremod.entity.citizen.EntityCitizen.m_8107_(EntityCitizen.java:466) ~[minecolonies-1.18.1-1.0.502-BETA.jar%2368!/:1.18.1-1.0.502-BETA]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2248) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.world.entity.Mob.m_8119_(Mob.java:307) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8647_(ServerLevel.java:649) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.world.level.Level.m_46653_(Level.java:487) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.server.level.ServerLevel.m_184063_(ServerLevel.java:316) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.world.level.entity.EntityTickList.m_156910_(EntityTickList.java:54) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:296) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:868) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:328) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:808) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:668) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:258) ~[server-1.18.1-20211210.034407-srg.jar%2389!/:?]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+[23:45:18] [Server thread/ERROR]: Pausing Entity Deacon N. Fudd (com.minecolonies.job.netherworker) at BlockPos{x=307, y=119, z=-47} for 400 Seconds because of error:
+[23:46:00] [Server thread/WARN]: Statemachine for transition com.minecolonies.api.entity.ai.statemachine.AITarget@79133884 threw an exception:
+java.lang.NullPointerException: null
+[23:46:00] [Server thread/ERROR]: Pausing Entity Deacon N. Fudd (com.minecolonies.job.netherworker) at BlockPos{x=307, y=119, z=-47} for 800 Seconds because of error:
+[23:47:22] [Server thread/WARN]: Statemachine for transition com.minecolonies.api.entity.ai.statemachine.AITarget@79133884 threw an exception:
+java.lang.NullPointerException: null
+[23:47:22] [Server thread/ERROR]: Pausing Entity Deacon N. Fudd (com.minecolonies.job.netherworker) at BlockPos{x=307, y=119, z=-47} for 1600 Seconds because of error:
+[23:53:45] [Server thread/WARN]: Statemachine for transition com.minecolonies.api.entity.ai.statemachine.AITarget@79133884 threw an exception:
+java.lang.NullPointerException: null
+[23:53:45] [Server thread/ERROR]: Pausing Entity Deacon N. Fudd (com.minecolonies.job.netherworker) at BlockPos{x=307, y=119, z=-47} for 3200 Seconds because of error:
+[23:55:04] [Server thread/INFO]: All players have been successfully backed up
+[23:59:07] [Server thread/WARN]: Statemachine for transition com.minecolonies.api.entity.ai.statemachine.AITarget@79133884 threw an exception:
+java.lang.NullPointerException: null
+[23:59:07] [Server thread/ERROR]: Pausing Entity Deacon N. Fudd (com.minecolonies.job.netherworker) at BlockPos{x=307, y=119, z=-47} for 6400 Seconds because of error:
